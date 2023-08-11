@@ -3,10 +3,10 @@
 
 if(!defined('DB_NAME')){
 // Данные для подключения к базе
-define ('DB_NAME','alexozol_aozo1');
-define ('DB_SERVER','localhost');
-define ('DB_LOGIN','alexozol_aozo1');
-define ('DB_PASS','ozOl1Xol2');
+define ('DB_NAME','');
+define ('DB_SERVER','');
+define ('DB_LOGIN','');
+define ('DB_PASS','');
 define ('DBP', '%prefix%');
 
 //адрес главной страницы скрипта

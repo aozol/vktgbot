@@ -42,7 +42,7 @@ if (isset($_POST))
 <p>Домен: <input type="text" name="domain" value="<?php echo $_SERVER['HTTP_HOST']; ?>"></p>
 <p>Папка: <input type="text" name="dirname" value=""></p>
 <p>Префикс таблиц: <input type="text" name="prefix" value=""></p>
-<p>vkId админа: <input type="text" name="vk_admin" value="2204686"></p>
+<p>vkId админа: <input type="text" name="vk_admin" value=""></p>
 
 <p>Логин в адм.панель: <input type="text" name="adm_login" value="admin"></p>
 <p>Пароль в адм.панель: <input type="password" name="adm_pass" value=""></p>

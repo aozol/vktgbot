@@ -11,8 +11,6 @@ require_once(dirname(__FILE__).'/../adm/functions.php');
 
 $nowDate=date('Y-m-d H:i:00');
 $currentDateTime = new DateTime($nowDate);
-
-$isTask=0;
     
 for ($i = 0; $i < 5; $i++)
 {    
@@ -27,21 +25,12 @@ for ($i = 0; $i < 5; $i++)
         
         mysqli_query($dblink,"UPDATE `".DBP_GENERAL."message_regular_tasks` SET lastDone='".$currentDateTime->format('Y-m-d H:i:s')."' WHERE taskId={$taskId}");
         
-        $isTask=1;
+
     }
     
     $currentDateTime->modify('-10 minutes');
 
 }
-
-/*
-if($isTask)
-{
-    file_get_contents('http://vkbot.aozol.ru/multiple_general/cron/message_tasks.php');
-    //file_get_contents('http://vkbot.aozol.ru/multiple_general/adm/message_sender.php');
-}
-//*/
-//echo file_get_contents('http://vkbot.clubevrika.ru/multiple_general/adm/message_sender.php?from_tasks=1');
 
 
 

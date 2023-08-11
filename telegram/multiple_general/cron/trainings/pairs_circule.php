@@ -23,7 +23,7 @@ $date=date('Y-m-d H:i:s');
 echo 'Date to send: '.$date.'<br>';
 
    
-$sql=mysqli_query($dblink,"SELECT vkId,vkGroupId FROM `".DBP."db` WHERE unsub=0 AND mlistId={$mlistId} ORDER BY vkId"); //WHERE vkId=2204686 GROUP BY vkId
+$sql=mysqli_query($dblink,"SELECT vkId,vkGroupId FROM `".DBP."db` WHERE unsub=0 AND mlistId={$mlistId} ORDER BY vkId");
 
 $token_arr=array();
 

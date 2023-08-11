@@ -41,7 +41,7 @@ echo '<p>Дата отправки: '.$dataArray['dateTime'].'</p>
 
 <p><textarea name="text" style="width: 300px; height: 200px">'.$dataArray['text'].'</textarea>';
    
-$sql=mysqli_query($dblink,"SELECT vkId,token FROM `".DBP_GENERAL."message_queue` WHERE taskId={$taskId}"); //WHERE vkId=2204686 GROUP BY vkId
+$sql=mysqli_query($dblink,"SELECT vkId,token FROM `".DBP_GENERAL."message_queue` WHERE taskId={$taskId}");
 
 echo '<p>Список получателей рассылки</p>
 <form action="" method="post">

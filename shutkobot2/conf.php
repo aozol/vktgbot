@@ -3,17 +3,17 @@
 
 if(!defined('DB_NAME')){
 // Данные для подключения к базе
-define ('DB_NAME','alexozol_aozo1');
-define ('DB_SERVER','localhost');
-define ('DB_LOGIN','alexozol_aozo1');
-define ('DB_PASS','ozOl1Xol2');
+define ('DB_NAME','');
+define ('DB_SERVER','');
+define ('DB_LOGIN','');
+define ('DB_PASS','');
 define ('DBP', 'bot_shutkobot2_');
 
 //адрес главной страницы скрипта
-define ('BOT_HOST', 'vkbot.aozol.ru/shutkobot2/');
+define ('BOT_HOST', '');
 define ('GENERAL_DIR', dirname(__FILE__).'/../multiple_general/');
 
-define ('ADM_VK_ID', 2204686);
+define ('ADM_VK_ID', 0);
 define ('BOT_LOGS_DIRECTORY', 'logs');
 }
 
@@ -95,8 +95,8 @@ $buttons=array();
 
 
 //
-$service_token='bccf2952bccf2952bccf2952e8bca0ceecbbccfbccf2952e29b21fa272490169098f258';//0cc133310cc133310cc13331500caa5ea300cc10cc1333151db039ada7695f639c7bc80
-$client_secret='L0YF6HHKtjNZorCnGf5X';//1mYVMxWTumjtkAxaCYnH
-$app_id='7333822'; //7040402
+$service_token='';
+$client_secret='';
+$app_id='';
 
 ?>

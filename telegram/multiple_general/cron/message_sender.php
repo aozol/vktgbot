@@ -11,15 +11,15 @@ ini_set('display_startup_errors', 1);
 
 if(!defined('DB_NAME')){
 // Данные для подключения к базе
-define ('DB_NAME','alexozol_aozo1');
-define ('DB_SERVER','localhost');
-define ('DB_LOGIN','alexozol_aozo1');
-define ('DB_PASS','ozOl1Xol2');
+define ('DB_NAME','');
+define ('DB_SERVER','');
+define ('DB_LOGIN','');
+define ('DB_PASS','');
 
 //адрес главной страницы скрипта
-define ('BOT_HOST', 'vkbot.clubevrika.ru/shutkobot2/');
+define ('BOT_HOST', '');
 
-define ('ADM_VK_ID', 2204686);
+define ('ADM_VK_ID', 0);
 define ('BOT_LOGS_DIRECTORY', 'logs');
 }
 

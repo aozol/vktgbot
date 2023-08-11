@@ -1,3 +1,0 @@
-19:02:40 [_vkApi_call] : [ERROR] {"error": {"error_code": 10,"error_msg": "Internal server error: Unknown error, try later"}}
-19:02:57 [_vkApi_call] : [ERROR] {"error": {"error_code": 10,"error_msg": "Internal server error: Unknown error, try later"}}
-19:03:38 [_vkApi_call] : [ERROR] {"error": {"error_code": 10,"error_msg": "Internal server error: Unknown error, try later"}}

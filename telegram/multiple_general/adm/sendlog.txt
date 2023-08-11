@@ -1,1 +1,0 @@
-INSERT INTO `bot_general_message_error` (token,vkId,errorCode) VALUES ('00af0cca75cc5df2c6d8435d73f9836331ea1e35eb1e80402baed649f5884e4f5fd7c74b4cb50614daae2',2204686,901

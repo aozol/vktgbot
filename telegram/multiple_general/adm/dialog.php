@@ -29,7 +29,7 @@ if(isset($_POST['text'])){
     $personalText=personal_text($_GET['vkId'],$_POST['text']);
     $sendResult=message_queue($token,$_GET['vkId'],$personalText[$_GET['vkId']],date('Y-m-d H:i:00'),$_POST['buttons_php']);
     
-    echo "Сообщение поставлено в очередь и будет отправлено примерно в течение минуты. Чтобы отправить сейчас, перейдите <a href=\"https://vkbot.aozol.ru/telegram/multiple_general/cron/message_sender.php\">по ссылке</a>";
+    echo "Сообщение поставлено в очередь и будет отправлено примерно в течение минуты. Чтобы отправить сейчас, перейдите <a href=\"/telegram/multiple_general/cron/message_sender.php\">по ссылке</a>";
     
 
 

@@ -404,7 +404,7 @@ function userInfo($vkIds)
 function log_keyboard($vkIds,$buttons)
 {
     GLOBAL $dblink,$ADM_VK_ID;
-    $ADM_VK_ID=2204686;
+    
     
     if(defined('DBP'))
         $DBP=DBP;

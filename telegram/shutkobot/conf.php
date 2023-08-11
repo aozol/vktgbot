@@ -8,7 +8,7 @@ ini_set('display_startup_errors', 1);
 if(!defined('DB_NAME'))
 {
     //адрес главной страницы скрипта
-    define ('BOT_HOST', 'vkbot.aozol.ru/telegram/shutkobot/');
+    define ('BOT_HOST', '');
     define ('BOT_FOLDER', 'shutkobot');
     define ('GENERAL_DIR', dirname(__FILE__).'/../multiple_general/');
     define ('SHUTKOBOT_DIR', dirname(__FILE__).'/../shutkobot_general/');
@@ -19,10 +19,10 @@ if(!defined('DB_NAME'))
 
     define ('TEMPLATE_DIR', '/admin_template/');
 
-    define ('ADM_VK_ID', 2204686);
+    define ('ADM_VK_ID', 0);
     define ('BOT_LOGS_DIRECTORY', 'logs');
-    define ('DEF_BOT_ID', 1903614144);
-    define ('SUPPORT_TG_ID', "238009339");
+    define ('DEF_BOT_ID', 0);
+    define ('SUPPORT_TG_ID', "");
 }
 
 
@@ -91,8 +91,8 @@ $botInfo[1903614144]['vk']='shutkobot';
 $buttons=array();
 $attachments=array();
 
-$service_token='0cc133310cc133310cc13331500caa5ea300cc10cc1333151db039ada7695f639c7bc80';
-$client_secret='1mYVMxWTumjtkAxaCYnH';
-$app_id='7040402';
+$service_token='';
+$client_secret='';
+$app_id='';
 
 ?>

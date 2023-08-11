@@ -81,8 +81,8 @@ $buttons=array();
 
 
 //
-$service_token='0cc133310cc133310cc13331500caa5ea300cc10cc1333151db039ada7695f639c7bc80';
-$client_secret='1mYVMxWTumjtkAxaCYnH';
-$app_id='7040402';
+$service_token='';
+$client_secret='';
+$app_id='';
 
 ?>

@@ -72,7 +72,7 @@ if(isset($_POST))
    
 }
    
-$sql=mysqli_query($dblink,"SELECT vkId,vkGroupId FROM `".DBP."db` WHERE unsub=0 AND mlistId={$mlistId}"); //WHERE vkId=2204686 GROUP BY vkId
+$sql=mysqli_query($dblink,"SELECT vkId,vkGroupId FROM `".DBP."db` WHERE unsub=0 AND mlistId={$mlistId}");
 
 echo '<p>Список "'.$mlistName[$mlistId].'"</p>
 <form action="" method="post">';

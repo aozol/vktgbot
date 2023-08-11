@@ -83,7 +83,7 @@ if(isset($_POST['add_vkId']))
    
 }
    
-$sql=mysqli_query($dblink,"SELECT vkId,vkGroupId FROM `".DBP."events_reg_db` WHERE unsub=0 AND eventId={$eventId} AND roleId={$roleId}"); //WHERE vkId=2204686 GROUP BY vkId
+$sql=mysqli_query($dblink,"SELECT vkId,vkGroupId FROM `".DBP."events_reg_db` WHERE unsub=0 AND eventId={$eventId} AND roleId={$roleId}");
 
 echo '<p>Список "'.$roleName.' | '.$eventName.'"</p>
 <form action="" method="post">
