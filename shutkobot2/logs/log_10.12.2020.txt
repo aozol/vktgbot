@@ -1,0 +1,32 @@
+20:04:27 [_vkApi_call] : [ERROR] Connection timed out after 300004 milliseconds
+20:04:46 [_vkApi_call] : [ERROR] Failed to connect to api.vk.com port 443: Connection timed out
+20:07:56 [_vkApi_call] : [ERROR] Failed to connect to api.vk.com port 443: Connection timed out
+20:12:18 [_vkApi_call] : [ERROR] Connection timed out after 300011 milliseconds
+20:12:36 [_vkApi_call] : [ERROR] Failed to connect to api.vk.com port 443: Connection timed out
+20:15:45 [_vkApi_call] : [ERROR] Failed to connect to api.vk.com port 443: Connection timed out
+20:18:01 [_vkApi_call] : [ERROR] Failed to connect to api.vk.com port 443: Connection timed out
+20:18:45 [_vkApi_call] : [ERROR] Failed to connect to api.vk.com port 443: Connection timed out
+20:19:03 [_vkApi_call] : [ERROR] Connection timed out after 300015 milliseconds
+20:21:02 [_vkApi_call] : [ERROR] Couldn't resolve host 'api.vk.com'
+20:22:11 [_vkApi_call] : [ERROR] Failed to connect to api.vk.com port 443: Connection timed out
+20:43:19 [_vkApi_call] : [ERROR] Couldn't resolve host 'api.vk.com'
+20:51:00 [_vkApi_call] : [ERROR] Couldn't resolve host 'api.vk.com'
+20:57:32 [_vkApi_call] : [ERROR] Couldn't resolve host 'api.vk.com'
+21:40:07 [_vkApi_call] : [ERROR] Couldn't resolve host 'api.vk.com'
+21:40:18 [_vkApi_call] : [ERROR] Couldn't resolve host 'api.vk.com'
+21:40:23 [_vkApi_call] : [ERROR] Couldn't resolve host 'api.vk.com'
+21:48:17 [_vkApi_call] : [ERROR] Connection timed out after 300003 milliseconds
+21:50:13 [_vkApi_call] : [ERROR] Failed to connect to api.vk.com port 443: Connection timed out
+21:50:31 [_vkApi_call] : [ERROR] Failed to connect to api.vk.com port 443: Connection timed out
+21:53:39 [_vkApi_call] : [ERROR] Connection timed out after 300022 milliseconds
+22:03:47 [_vkApi_call] : [ERROR] Connection timed out after 300006 milliseconds
+22:18:03 [_vkApi_call] : [ERROR] Failed to connect to api.vk.com port 443: Connection timed out
+22:18:20 [_vkApi_call] : [ERROR] Failed to connect to api.vk.com port 443: Connection timed out
+22:18:35 [_vkApi_call] : [ERROR] Failed to connect to api.vk.com port 443: Connection timed out
+22:18:53 [_vkApi_call] : [ERROR] Connection timed out after 300032 milliseconds
+22:21:28 [_vkApi_call] : [ERROR] Failed to connect to api.vk.com port 443: Connection timed out
+22:22:01 [_vkApi_call] : [ERROR] Failed to connect to api.vk.com port 443: Connection timed out
+22:27:19 [_vkApi_call] : [ERROR] Failed to connect to api.vk.com port 443: Connection timed out
+22:27:22 [_vkApi_call] : [ERROR] Failed to connect to api.vk.com port 443: Connection timed out
+22:27:36 [_vkApi_call] : [ERROR] Failed to connect to api.vk.com port 443: Connection timed out
+22:27:40 [_vkApi_call] : [ERROR] Failed to connect to api.vk.com port 443: Connection timed out

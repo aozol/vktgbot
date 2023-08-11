@@ -1,0 +1,10 @@
+19:05:15 [_vkApi_call] : [ERROR] {"error": {"error_code": 10,"error_msg": "Internal server error: Unknown error, try later"}}
+19:25:44 [_vkApi_call] : [ERROR] {"error": {"error_code": 10,"error_msg": "Internal server error: Unknown error, try later"}}
+19:26:03 [_vkApi_call] : [ERROR] {"error": {"error_code": 10,"error_msg": "Internal server error: Unknown error, try later"}}
+19:27:56 [_vkApi_call] : [ERROR] {"error": {"error_code": 10,"error_msg": "Internal server error: Unknown error, try later"}}
+19:35:18 [_vkApi_call] : [ERROR] {"error": {"error_code": 10,"error_msg": "Internal server error: Unknown error, try later"}}
+19:36:24 [_vkApi_call] : [ERROR] {"error": {"error_code": 10,"error_msg": "Internal server error: Unknown error, try later"}}
+19:36:32 [_vkApi_call] : [ERROR] {"error": {"error_code": 10,"error_msg": "Internal server error: Unknown error, try later"}}
+19:36:59 [_vkApi_call] : [ERROR] {"error": {"error_code": 10,"error_msg": "Internal server error: Unknown error, try later"}}
+19:37:39 [_vkApi_call] : [ERROR] {"error": {"error_code": 10,"error_msg": "Internal server error: Unknown error, try later"}}
+19:37:42 [_vkApi_call] : [ERROR] {"error": {"error_code": 10,"error_msg": "Internal server error: Unknown error, try later"}}
